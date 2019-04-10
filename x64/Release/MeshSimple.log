@@ -1,0 +1,43 @@
+﻿  Face.cpp
+  main.cpp
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\main.cpp(111): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\main.cpp(112): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Mat4.cpp
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\mat4.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Pair.cpp
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\pair.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PairHeap.cpp
+  Point.cpp
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\point.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PointSet.cpp
+  Simplification.cpp
+e:\master-1st\course\spring\cg\finalassignment\201728013229083_李园\src\meshsimple\src\simplification.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Vector3.cpp
+  Vector4.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glViewport
+main.obj : error LNK2001: 无法解析的外部符号 glutInit
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glClear
+main.obj : error LNK2001: 无法解析的外部符号 glutReshapeFunc
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glPolygonMode
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glEnable
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glVertex3f
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glEnd
+main.obj : error LNK2001: 无法解析的外部符号 glutPostRedisplay
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glFrustum
+main.obj : error LNK2001: 无法解析的外部符号 gluLookAt
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glMatrixMode
+main.obj : error LNK2001: 无法解析的外部符号 glutCreateWindow
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glColor3f
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glLoadIdentity
+main.obj : error LNK2001: 无法解析的外部符号 glutInitDisplayMode
+main.obj : error LNK2001: 无法解析的外部符号 glutSpecialFunc
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glBegin
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glClearColor
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glRotatef
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glFlush
+main.obj : error LNK2001: 无法解析的外部符号 glutDisplayFunc
+main.obj : error LNK2001: 无法解析的外部符号 glutMainLoop
+main.obj : error LNK2001: 无法解析的外部符号 glutInitWindowSize
+main.obj : error LNK2001: 无法解析的外部符号 glutSwapBuffers
+E:\Master-1st\course\Spring\CG\FinalAssignment\201728013229083_李园\src\MeshSimple\x64\Release\MeshSimple.exe : fatal error LNK1120: 25 个无法解析的外部命令
